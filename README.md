@@ -4,7 +4,7 @@
 
 Construo sistemas de vendas, atendimento e marketing com agentes de IA, dentro de um método de engenharia: especificação, testes automatizados, revisão independente, CI/CD e auditorias de segurança.
 
-[LinkedIn](https://www.linkedin.com/in/eric-oliveira-0602b396) · [Portfólio](https://claude.ai/artifact/UR1JmbcGApKsQyzfvK8Jq7)
+[LinkedIn](https://www.linkedin.com/in/eric-oliveira-0602b396) · [Portfólio](https://efsosud-rgb.github.io)
 
 TypeScript · JavaScript · Python · SQL · React · Node.js · PostgreSQL · Supabase · Docker · GitHub Actions · LLMs e agentes de IA
 
